@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-02T13:25:44 IST" name="Default suite" finished-at="2023-11-02T13:25:44 IST" duration-ms="257">
+    <groups>
+    </groups>
+    <test started-at="2023-11-02T13:25:44 IST" name="Default test" finished-at="2023-11-02T13:25:44 IST" duration-ms="257">
+      <class name="demo.Priority">
+        <test-method signature="D()[pri:-3, instance:demo.Priority@4cc451f2]" started-at="2023-11-02T13:25:44 IST" name="D" finished-at="2023-11-02T13:25:44 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+        <test-method signature="B()[pri:-1, instance:demo.Priority@4cc451f2]" started-at="2023-11-02T13:25:44 IST" name="B" finished-at="2023-11-02T13:25:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="C()[pri:0, instance:demo.Priority@4cc451f2]" started-at="2023-11-02T13:25:44 IST" name="C" finished-at="2023-11-02T13:25:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method signature="A()[pri:2, instance:demo.Priority@4cc451f2]" started-at="2023-11-02T13:25:44 IST" name="A" finished-at="2023-11-02T13:25:44 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+      </class> <!-- demo.Priority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
